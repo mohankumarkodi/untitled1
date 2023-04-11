@@ -1,0 +1,38 @@
+.input2{
+    width: 100%;
+    height: 40px;
+    border: solid 1px grey;
+}
+.disc{
+    font-size: 18px;
+    font-family: 'roboto';
+
+}
+.align-name{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-items: center;
+    min-width: 50%;
+}
+.btn-align{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-items: center;
+}
+.btn{
+    margin: 20px 0 0 0;
+    width: 90px;
+    height: 40px;
+    background-color: #351ae8;
+    border: solid  0px 20px;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+}
+.error{
+    color: red;
+    font-family: 'roboto';
+    font-size: 20px;
+}
